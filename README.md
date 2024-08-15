@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deep Kumar</h1>
 <h3 align="center">I am a final year Computer Science and Engineering Student</h3>
 <img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepsingh90&label=Profile%20views&color=0e75b6&style=flat" alt="deepsingh90" />890 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepsingh90&label=Profile%20views&color=0e75b6&style=flat" alt="deepsingh90" /> </p>
 
 - 🔭 I’m currently working on [Bhoori Foundation](https://github.com/deepsingh90/Bhoori-Foundation-Web)
 
