@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Bhoori Foundation](https://github.com/deepsingh90/Bhoori-Foundation-Web)
 
-- 🌱 I’m currently learning **REACT NATIVE**
+
 
 - 📫 How to reach me **deep94725kumar@gmail.com**
 
